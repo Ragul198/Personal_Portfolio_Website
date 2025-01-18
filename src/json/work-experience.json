@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"Cognifyz Technologies",
+        "image":"./src/assets/logo/clogo.jpg",
+        "des":"",
+        "timeline":"Jan 2023 - Feb 2023"
+    },
+    {
+       "id":2,
+       "title":"NANLOGICAL CONSULTANCY SERVICE PVT LTD",
+        "image":"./src/assets/logo/nlogo.jpg",
+        "des":"",
+        "timeline":"May 2022 - June 2022"
+    }
+    
+]

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: "ragul";
+    src: local("LilitaOne-Regular"),
+    url('./assets/fonts/LilitaOne-Regular.ttf') format("truetype");
+}
+@font-face{
+    font-family: "Regular";
+    src: local("LexendGiga-VariableFont_wght"),
+    url('./assets/fonts/LexendGiga-VariableFont_wght.ttf') format("truetype");
+}
+

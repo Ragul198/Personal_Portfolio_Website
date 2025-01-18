@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Personal Portfolio Website",
+        "description":"A responsive portfolio website built with React.js and Tailwind CSS, showcasing my skills, projects, and contact information ",
+        "image":"./src/assets/logo/portfolio.png"
+    },
+    {
+        "id":2,
+        "name":"Project Management Dashboard",
+        "description":"A feature-rich dashboard built using the MERN stack, enabling efficient task tracking and team collaboration, ",
+        "image":"./src/assets/logo/pm.webp"
+    },
+    {
+        "id":3,
+        "name":"Landing Page",
+        "description":"A visually appealing and responsive landing page designed to captivate users and highlight key content ",
+        "image":"./src/assets/logo/landing.png"
+    },
+    {
+        "id":4,
+        "name":"E-commerce Website:",
+        "description":"A dynamic e-commerce platform built with React.js and Tailwind CSS, offering a seamless shopping experience. ",
+        "image":"./src/assets/logo/ecom.png"
+    }
+    
+]
